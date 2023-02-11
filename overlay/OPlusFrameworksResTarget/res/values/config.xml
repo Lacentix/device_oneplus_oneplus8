@@ -402,4 +402,7 @@
         <item>118</item>   <!-- <item>sensorRadius</item> -->
     </integer-array>
 
+    <!-- Fingerprint from stock ROM -->
+    <string name="config_stockFingerprint" translatable="false">OnePlus/OnePlus8/OnePlus8:13/RKQ1.211119.001/Q.c9b6f1-1-1dbcd:user/release-keys</string>
+
 </resources>
